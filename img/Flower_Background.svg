@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1219" height="1472" viewBox="0 0 1219 1472">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_20" data-name="Rectángulo 20" width="1219" height="1472" transform="translate(11069 -3976)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Trazado_2" x="620.626" y="787.124" width="628.374" height="795.19" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_3" x="-45.825" y="1011.208" width="793.063" height="660.449" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_4" x="587.661" y="391.979" width="543.871" height="958.453" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_5" x="-45.825" y="567.804" width="844.006" height="1014.51" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_6" x="12.949" y="179.739" width="675.516" height="904.32" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_7" x="514.459" y="-6" width="485.441" height="853.958" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Flower_Background" transform="translate(-11069 3976)" clip-path="url(#clip-path)">
+    <g id="Grupo_32" data-name="Grupo 32" transform="translate(9985.97 -4153.941)">
+      <g transform="matrix(1, 0, 0, 1, 1083.03, 177.94)" filter="url(#Trazado_2)">
+        <path id="Trazado_2-2" data-name="Trazado 2" d="M45.217,115.48C163.224-105.094,308.8,58.131,308.8,58.131s21.808,28.443,27.572,65.069c5.025,31.927-5.407,71.113-13.234,91.538-4.454,11.624-12.681,20.145-22.057,35.292-2.5,4.035-32.359,60.514-70.584,91.538-40.208,32.633-77.963,109.5-82.715,116.9C81.526,561.745,81.612,700,81.612,700L30.88,551.113,7.72,445.237,0,320.613V264.367l7.72-58.452,15.44-52.938Z" transform="matrix(0.9, 0.44, -0.44, 0.9, 936.49, 793.12)" fill="#b7cce3"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1083.03, 177.94)" filter="url(#Trazado_3)">
+        <path id="Trazado_3-2" data-name="Trazado 3" d="M45.217,584.52C163.225,805.094,308.8,641.869,308.8,641.869s21.808-28.443,27.572-65.069c5.025-31.927-5.407-71.113-13.234-91.538-4.454-11.624-12.681-20.145-22.057-35.292-2.5-4.035-32.359-60.514-70.584-91.538-40.208-32.633-77.963-109.5-82.715-116.9C81.526,138.255,81.612,0,81.612,0L30.88,148.887,7.72,254.762,0,379.387v56.246l7.72,58.452,15.44,52.938Z" transform="translate(738.24 1367.21) rotate(120)" fill="#ffc194"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1083.03, 177.94)" filter="url(#Trazado_4)">
+        <path id="Trazado_4-2" data-name="Trazado 4" d="M58.137,148.474C209.86-135.121,397.031,74.739,397.031,74.739s28.04,36.57,35.45,83.66c6.461,41.049-6.951,91.43-17.015,117.692-5.727,14.944-16.3,25.9-28.359,45.375-3.212,5.188-41.6,77.8-90.751,117.692-51.7,41.957-100.238,140.782-106.348,150.305C104.819,722.243,104.93,900,104.93,900L39.7,708.573,9.925,572.448,0,412.217V339.9l9.925-75.153,19.851-68.063Z" transform="matrix(0.99, 0.1, -0.1, 0.99, 690.74, 397.98)" fill="#ffc194"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1083.03, 177.94)" filter="url(#Trazado_5)">
+        <path id="Trazado_5-2" data-name="Trazado 5" d="M58.136,751.526c151.724,283.595,338.9,73.735,338.9,73.735s28.04-36.57,35.45-83.661c6.461-41.049-6.951-91.43-17.015-117.692-5.727-14.945-16.3-25.9-28.359-45.375-3.211-5.188-41.6-77.8-90.75-117.692-51.7-41.957-100.238-140.782-106.348-150.305C104.819,177.757,104.93,0,104.93,0L39.7,191.426,9.925,327.552,0,487.783V560.1l9.925,75.153,19.851,68.063Z" transform="matrix(-0.87, 0.5, -0.5, -0.87, 789.18, 1353.23)" fill="#b7cce3"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1083.03, 177.94)" filter="url(#Trazado_6)">
+        <path id="Trazado_6-2" data-name="Trazado 6" d="M51.677,668.023c134.866,252.084,301.24,65.542,301.24,65.542s24.924-32.507,31.511-74.365c5.743-36.488-6.179-81.271-15.125-104.615-5.09-13.284-14.492-23.022-25.208-40.334-2.855-4.612-36.981-69.159-80.667-104.615-45.953-37.3-89.1-125.139-94.531-133.6C93.172,158.006,93.271,0,93.271,0L35.291,170.157l-26.469,121L0,433.585v64.281l8.822,66.8,17.646,60.5Z" transform="matrix(-0.93, 0.37, -0.37, -0.93, 679.46, 927.49)" fill="#ffc194"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1083.03, 177.94)" filter="url(#Trazado_7)">
+        <path id="Trazado_7-2" data-name="Trazado 7" d="M51.677,131.977c134.866-252.084,301.24-65.542,301.24-65.542s24.924,32.507,31.511,74.365c5.743,36.488-6.179,81.271-15.125,104.615-5.09,13.284-14.492,23.022-25.208,40.334-2.855,4.612-36.981,69.159-80.667,104.615-45.952,37.3-89.1,125.139-94.532,133.6C93.173,641.994,93.271,800,93.271,800L35.291,629.843l-26.469-121L0,366.415V302.134l8.822-66.8,17.646-60.5Z" transform="matrix(0.99, 0.1, -0.1, 0.99, 607.08, 0)" fill="#b7cce3"/>
+      </g>
+    </g>
+  </g>
+</svg>

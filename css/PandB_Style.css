@@ -1,0 +1,257 @@
+body{
+    margin:0;
+    font-family: Roboto, sans-serif;
+    font-size: 20px;
+}
+
+main{
+    background-image:url("../img/Flower_Background.svg");
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:35%
+
+}
+main section{
+    padding-top: 160px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+header{
+    display: flex;
+    align-items:center;
+    padding: 5px 20px;
+    background-color: #fff;
+    width: 100%;
+    position: fixed;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    z-index: 10;
+}
+
+header a img{
+    height: 120px;
+}
+
+header nav {
+    width: 70%;
+}
+
+header nav ul{
+    list-style:none;
+    display: flex;
+    font-weight: 700;
+    font-size: 30px;
+    float: right;
+    justify-content:flex-end;
+}
+
+header nav ul li a{
+    color:#FFA666;
+    text-decoration: none;
+    margin-left: 20px;
+    align-self: flex-end;
+}
+
+header nav ul li a:hover{
+    color:#97B5D7;
+}
+
+footer{
+    background-color: #97B5D7;
+    line-height: 50px;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer nav ul{
+    list-style:none;
+    display: flex;
+    font-weight: 700;
+    margin-block-start:0;
+    margin-block-end:0;
+}
+
+footer nav ul li a{
+    color:#fff;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+footer nav ul li a:hover{
+    text-decoration: underline;
+}
+
+h2{
+    color: #FFA666;
+}
+
+.sectionTitle{
+    background-color: #FFA666;
+    text-align: center;
+    color: #fff;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 10px;
+    line-height: 40px;
+    font-weight: 900;
+}
+
+.carContainer{
+    display: flex;
+    flex-direction:row;
+}
+
+.carousel{
+    display: flex;
+    overflow-x: hidden;
+    flex-direction:row;
+}
+.carousel-cell{
+    box-sizing: border-box;
+}
+
+.carousel-cell .cell-background{
+    margin: 20px;
+    height: 500px;
+    width: 500px;
+    box-sizing: border-box;
+    background-size: 100%;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.cell-text{
+    color: #fff;
+    background-color: rgba(70, 70, 70, 0.8);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-top: 400px;
+    text-align: center;
+    height: 99px;
+    align-items: center;
+}
+
+.cell-text h1{
+    line-height: 40px;
+    margin-block-end:0;
+    padding-top: 8px;
+}
+
+.realtors{
+    display: flex;
+    padding: 10px;
+    justify-content:center;
+}
+
+.realtorCard{
+    background-color: #fff;
+    height: 300px;
+    width: 600px;
+    border-radius: 10px;
+    border: solid 2px #97B5D7;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.profilePic{
+    height: 240px;
+    width: auto;
+}
+
+.cardDetails{
+    padding: 20px; 
+}
+
+.cardDetails h1{
+    font-size: 32px;
+    color: #FFA666;
+}
+.cardDetails i{
+    margin-left: 10px;
+}
+
+.cardDetails .fa-whatsapp{
+    color: #24CC63;
+    font-size: 50px;
+    cursor:pointer;
+}
+
+.cardDetails .fa-facebook-messenger{
+    color: #73A1D2;
+    font-size: 50px;
+    cursor:pointer;
+}
+
+.cardDetails .fa-linkedin-in{
+    color: #3B5998;
+    font-size: 50px;
+    cursor:pointer;
+}
+
+.contArrow{
+    margin: 0 10px;
+}
+
+#left-arrow{
+    color:#97B5D7;
+    font-size: 60px;
+    line-height: 500px;
+    cursor:pointer;
+}
+
+#right-arrow{
+    color:#97B5D7;
+    font-size: 60px;
+    line-height: 500px;
+    cursor:pointer;
+}
+
+#img29{
+    background-image: url("../img/Imagen 29.png");
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center;
+}
+
+#img30{
+    background-image: url("../img/Imagen 30.png");
+    background-repeat: no-repeat;
+    background-size: 160%;
+    background-position:right;
+}
+
+#img31{
+    background-image: url("../img/Imagen 31.png");
+    background-repeat: no-repeat;
+    background-size: 160%;
+    background-position:right;
+}
+
+#img32{
+    background-image: url("../img/Imagen 32.png");
+    background-repeat: no-repeat;
+    background-size: 160%;
+    background-position:right;
+}
+
+#img33{
+    background-image: url("../img/Imagen 33.png");
+    background-repeat: no-repeat;
+    background-size: 160%;
+    background-position:center;
+}
+
+#img34{
+    background-image: url("../img/Imagen 34.png");
+    background-repeat: no-repeat;
+    background-size: 160%;
+    background-position:right;
+}
+#Team{
+    padding-bottom: 100px;
+}
